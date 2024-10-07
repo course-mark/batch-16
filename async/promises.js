@@ -31,13 +31,3 @@ isEvenNumber(31)
   .catch((rejectedAnswer) => {
     console.error(rejectedAnswer);
   });
-
-  
-/**
-Exercise 1: Create a Simple Promise
-Objective: Create and resolve a simple promise.
-
-Write a function sayHello that returns a promise.
-The promise should resolve with the message "Hello, World!" after 2 seconds.
-Call the function and use .then() to log the message to the console.
- */
